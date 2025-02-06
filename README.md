@@ -40,5 +40,5 @@ A FastAPI-based API that provides mathematical properties and fun facts about nu
 
 ## Live API
 
-The API is deployed at: https://later.onrender.com
+The API is deployed at: https://hng12-backend-stage01-number.onrender.com/api/classify-number?number=371
 
